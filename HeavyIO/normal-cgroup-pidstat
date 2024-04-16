@@ -1,0 +1,33 @@
+13时25分31秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时25分32秒  1000     20881   25.74   74.26    0.00    0.00  100.00     0  HeavyIO
+
+13时25分32秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时25分33秒  1000     20881   24.00   76.00    0.00    0.00  100.00     0  HeavyIO
+
+13时25分33秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时25分34秒  1000     20881   24.00   76.00    0.00    0.00  100.00     0  HeavyIO
+
+13时25分34秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时25分35秒  1000     20881   26.00   74.00    0.00    0.00  100.00     0  HeavyIO
+
+13时25分35秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时25分36秒  1000     20881   20.00   80.00    0.00    0.00  100.00     0  HeavyIO
+
+13时25分36秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时25分37秒  1000     20881   26.00   75.00    0.00    0.00  101.00     0  HeavyIO
+
+13时25分37秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时25分38秒  1000     20881   18.00   81.00    0.00    0.00   99.00     0  HeavyIO
+
+13时25分38秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时25分39秒  1000     20881   25.74   73.27    0.00    0.99   99.01     0  HeavyIO
+
+13时25分39秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时25分40秒  1000     20881   22.00   79.00    0.00    0.00  101.00     0  HeavyIO
+
+13时25分40秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时25分41秒  1000     20881   23.00   76.00    0.00    0.00   99.00     0  HeavyIO
+^C
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:     1000     20881   23.45   76.45    0.00    0.10   99.90     -  HeavyIO

@@ -1,0 +1,42 @@
+13时31分25秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时31分26秒  1000     21311   24.75   75.25    0.00    0.00  100.00     5  HeavyIO
+
+13时31分26秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时31分27秒  1000     21311   20.00   80.00    0.00    0.00  100.00     5  HeavyIO
+
+13时31分27秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时31分28秒  1000     21311   26.00   74.00    0.00    0.00  100.00     5  HeavyIO
+
+13时31分28秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时31分29秒  1000     21311   25.00   76.00    0.00    0.00  101.00     5  HeavyIO
+
+13时31分29秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时31分30秒  1000     21311   18.00   81.00    0.00    0.00   99.00     5  HeavyIO
+
+13时31分30秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时31分31秒  1000     21311   10.89   49.50    0.00   38.61   60.40     2  HeavyIO
+
+13时31分31秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时31分32秒  1000     21311    9.00   39.00    0.00   53.00   48.00     3  HeavyIO
+
+13时31分32秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时31分33秒  1000     21311   12.00   34.00    0.00   53.00   46.00     4  HeavyIO
+
+13时31分33秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时31分34秒  1000     21311   11.00   36.00    0.00   54.00   47.00     5  HeavyIO
+
+13时31分34秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时31分35秒  1000     21311   13.00   34.00    0.00   53.00   47.00     5  HeavyIO
+
+13时31分35秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时31分36秒  1000     21311   11.00   38.00    0.00   51.00   49.00     4  HeavyIO
+
+13时31分36秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时31分37秒  1000     21311   12.00   34.00    0.00   53.00   46.00     8  HeavyIO
+
+13时31分37秒   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13时31分38秒  1000     21311   11.00   39.00    0.00   51.00   50.00     5  HeavyIO
+^C
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:     1000     21311   15.67   53.07    0.00   31.26   68.74     -  HeavyIO
